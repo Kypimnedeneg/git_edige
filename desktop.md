@@ -1,8 +1,8 @@
 # Заголовок 
 ## Menu
-1. Perfect
-2. Geforce
-3. Smailc
+1. [Perfect](#оглавление)
+2. [Geforce](#меню)
+3. [Smailc](#code-block)
 
 *Курсив*
 
@@ -22,8 +22,19 @@
 3. третье 
 ---
 [Ссылка на сайт почты](https://mail.ru/)
+### Code Block
 
-
+    #include <iostream>  
+    int kod = 522;    
+    void main()
+    {  
+    std::cout << "Hello world\n" << kod;  
+    getchar();  
+    }
+---
+> HOMMINEM 
+> 
+> *Seneca*
 
 
 
