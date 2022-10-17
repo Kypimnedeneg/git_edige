@@ -4,7 +4,7 @@
 2. Geforce
 3. Smailc
 
-
+*Курсив*
 
 
 
